@@ -1,15 +1,12 @@
 ﻿<Properties StartupConfiguration="{E08EE06B-C20B-416E-B3DC-5859966717BD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.LockScreen/ViewControllers/BaseLockScreenController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewControllers/BaseLockScreenController.cs">
     <Files>
-      <File FileName="Xamarin.LockScreen/ViewControllers/BaseLockScreenController.cs" Line="15" Column="45" />
+      <File FileName="ViewControllers/BaseLockScreenController.cs" Line="5" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/tylervanderhoef/Documents/Github/Xamarin.LockScreen/Example/SecurityAccess.cs" line="48" column="1" />
-      <Breakpoint file="/Users/tylervanderhoef/Documents/Github/Xamarin.LockScreen/Example/SecurityAccess.cs" line="52" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Example PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7F874F2D-5150-4A51-B71A-A97CBB23C977" />

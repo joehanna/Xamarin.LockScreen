@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.LockScreen", "Xamarin.LockScreen\Xamarin.LockScreen.csproj", "{5DC1D869-5952-4752-A79A-D4340D5C9FE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.LockScreen", "Xamarin.LockScreen.csproj", "{5DC1D869-5952-4752-A79A-D4340D5C9FE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{E08EE06B-C20B-416E-B3DC-5859966717BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "..\Example\Example.csproj", "{E08EE06B-C20B-416E-B3DC-5859966717BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,8 +49,5 @@ Global
 		{E08EE06B-C20B-416E-B3DC-5859966717BD}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
 		{E08EE06B-C20B-416E-B3DC-5859966717BD}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
 		{E08EE06B-C20B-416E-B3DC-5859966717BD}.AppStore|iPhone.Build.0 = AppStore|iPhone
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Example\Example.csproj
 	EndGlobalSection
 EndGlobal

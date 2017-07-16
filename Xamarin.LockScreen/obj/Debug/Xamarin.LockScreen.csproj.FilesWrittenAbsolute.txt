@@ -1,0 +1,2 @@
+/Users/joe/Projects/vantageit/Xamarin.LockScreen/Xamarin.LockScreen/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/joe/Projects/vantageit/Xamarin.LockScreen/Xamarin.LockScreen/obj/Debug/optimized/
